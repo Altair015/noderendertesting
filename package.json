@@ -1,0 +1,14 @@
+{
+  "name": "noderendertesting",
+  "version": "1.0.0",
+  "description": "Trying node deployment on render.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mandeep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
